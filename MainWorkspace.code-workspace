@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../4th-sem-c++"
+		},
+		{
+			"path": "../../../../Downloads/Udemy web dev-20231024T192317Z-001"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../DataScience"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WebDev",
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"string": "cpp",
+			"stdexcept": "cpp"
+		}
+	}
+}
